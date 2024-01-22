@@ -1,0 +1,7 @@
+SPRAWOZDANIE POWINNO ZABIERAĆ NASTĘPUJĄCE PUNKTY:
+1.	Tabelkę
+2.	Cel ćwiczenia laboratoryjnego
+3.	Wyniki potwierdzające wykonanie ćwiczenia: screany z pulpitu, pliki, inne dowody
+4.	Wnioski z wykonanego ćwiczenia 
+Każde sprawozdanie powinno zawierać krótkie podsumowanie z przeprowadzonego ćwiczenia. Zdania powinny opisywać najistotniejsze obserwacje i wyniki, które zauważył student. 
+Mile widziane są nawiązania do tzw. dobrej praktyki inżynierskiej. 
